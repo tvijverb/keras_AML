@@ -15,7 +15,7 @@ output_num_units = 2
 
 file_name = 'hdf5_AML6_H.h5'
 file = h5py.File(file_name, 'r')
-
+#nom
 #dataset
 #data
 dataset = file['/data']
